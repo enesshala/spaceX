@@ -1,5 +1,31 @@
 # React + TypeScript + Vite
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/enesshala/spaceX.git
+```
+
+Go to the project directory
+
+```bash
+  cd spaceX
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
